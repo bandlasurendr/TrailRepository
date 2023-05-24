@@ -1,0 +1,8 @@
+for cloneing command is  - git clone {url}
+
+for pull command is :- git pull origin {branch-name}
+
+
+pulll antey remote repository nundi local repository loki techukovadam
+
+push ante local repository nundi remote repository loki pampadammu
